@@ -31,3 +31,5 @@ functions/export/niftii/nii_viewer.m
 functions/export/niftii/nii_xform.m
 functions/registration/registerImagesIR.m
 functions/registration/registerImagesSR.m
+functions/various/lipariColorMap.m
+functions/various/naviaColorMap.m
