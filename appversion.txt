@@ -1,1 +1,1 @@
-T1mappR_version=1.7.3
+T1mappR_version=1.7.4
